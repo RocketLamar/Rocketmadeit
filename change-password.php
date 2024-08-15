@@ -247,4 +247,4 @@ return true;
     <script src="js/main.js"></script>
 </body>
 
-</html><?php }  ?>
+</html><?php }  ?># RocketLamar
